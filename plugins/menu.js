@@ -20,8 +20,8 @@ const defaultMenu = {
 │
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
-├ Github:
-├ %github
+├ IG:
+├ instagram.com/xsinzzhk_
 └────
 %readmore`.trimStart(),
   header: '┌─〔 %category 〕',
