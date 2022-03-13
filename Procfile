@@ -1,1 +1,1 @@
-web: node . -p 3000
+web: node .
