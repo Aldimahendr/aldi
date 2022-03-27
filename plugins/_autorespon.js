@@ -28,7 +28,7 @@ handler.all = async function (m, { conn, isBlocked }) {
 ├ 30 Hari / Rp 10,000
 └────
 
-https://github.com/ariffb25/Zenoxysbot
+https://github.com/Zyhkss/Zenoxys
 `.trim(), '© Zenoxys', 'Pemilik Bot', ',owner', m)
     }
 
