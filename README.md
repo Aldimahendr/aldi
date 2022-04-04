@@ -122,4 +122,4 @@ conn.logger.level = 'debug'
  [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Zyhkss](https://github.com/Zyhkss.png?size=100)](https://github.com/Zyhkss) 
 ----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Zyhkss](https://github.com/Zyhkss)
- Penulis / Pencipta | Penulis ulang | Penulis ulang 2 
+ Penulis / Pencipta | Penulis ulang | Recode 
